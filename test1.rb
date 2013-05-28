@@ -9,6 +9,6 @@
       end
    end
    # Create a new object
-   h = Hello.new("Ruby")
+   h = Hello.new("Ruby123")
    # Output "Hello Ruby!"
    h.salute
